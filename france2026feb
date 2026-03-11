@@ -325,5 +325,123 @@ http://02.tv.team/ch3696/mono.m3u8?token=torpokoska.v2_Ujw1M5rdmEdsmrGYha-aPhcyA
 #EXTINF:0 tvg-id="ch3697" tvg-name="FR: Warner TV Next HD" tvg-logo="[img]http://tv.team/images/chIcons/3697.png[/img]" tvg-rec="3", FR: Warner TV Next HD
 #EXTGRP:20. France
 http://02.tv.team/ch3697/mono.m3u8?token=torpokoska.v2_cJtognw63M3WxChekbMD4pNmXqoD-301J4mlmxDhnL6uVmzBO1paBFFg_r0E4y_gAoiKe4Ub48wjrnet
-#EXTINF:-1, Приятного просмотра
-https://alensat.at.ua/alensat.com.mp4
+
+#EXTM3U
+#EXTINF:-1 ,France 2 HD
+http://151.80.18.177:86/France_2_HD/index.m3u8
+#EXTINF:-1 ,France 3 HD
+http://151.80.18.177:86/France_3_HD/index.m3u8
+#EXTINF:-1 ,France 5 HD
+http://151.80.18.177:86/France_5_HD/index.m3u8
+#EXTINF:-1 ,Canal+ HD
+http://151.80.18.177:86/Canal+_HD/index.m3u8
+#EXTINF:-1 ,Canal+ Cinema HD
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 ,Comedie+ HD
+http://151.80.18.177:86/Comedie+_HD/index.m3u8
+#EXTINF:-1 ,ARTE HD
+http://151.80.18.177:86/ARTE_HD/index.m3u8
+#EXTINF:-1 ,Paris Premiere HD
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+#EXTINF:-1 ,AB1 HD
+http://151.80.18.177:86/AB1/index.m3u8
+#EXTINF:-1 ,RTL 9 HD
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:-1 ,TF1 HD
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 ,Teva HD
+http://151.80.18.177:86/Teva_HD/index.m3u8
+#EXTINF:-1 ,National Geo HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 ,Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1 ,Discovery HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 ,#EXTINF:-0.RMC DECOUVERDE
+http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+#EXTINF:-1 ,M6 HD
+http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1 ,W9 HD
+http://151.80.18.177:86/W9_HD/index.m3u8
+#EXTINF:-1 ,TRACE URBAN
+http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
+#EXTINF:-1 ,D17 CSTAR HD
+http://151.80.18.177:86/D17_HD/index.m3u8
+#EXTINF:-1 ,CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 ,GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:-1 ,Euro Sport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 ,Euro Sport 2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 ,Disney HD
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 ,Tiji HD
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+#EXTINF:-1 ,LCI HD
+http://151.80.18.177:86/LCI_HD/index.m3u8
+
+
+#EXTM3U
+# Playlist created by SMPlayer 25.6.0 (ревизия 10369) 
+#EXTINF:2.44,TF1 HD
+http://173.229.4.239:5004/auto/v1
+#EXTINF:2.401,France TV HD
+http://173.229.4.239:5004/auto/v2
+#EXTINF:2.344,France TV HD
+http://173.229.4.239:5004/auto/v3
+#EXTINF:2.437,France TV HD
+http://173.229.4.239:5004/auto/v4
+#EXTINF:2.16,France TV HD
+http://173.229.4.239:5004/auto/v5
+#EXTINF:8.76,M6 HD
+http://173.229.4.239:5004/auto/v6
+#EXTINF:8.064,Arte HD
+http://173.229.4.239:5004/auto/v7
+#EXTINF:3.592,LCP 8 HD
+http://173.229.4.239:5004/auto/v8
+#EXTINF:8.6,W9 HD
+http://173.229.4.239:5004/auto/v9
+#EXTINF:2.216,TMC HD
+http://173.229.4.239:5004/auto/v10
+#EXTINF:4.256,TFX HD
+http://173.229.4.239:5004/auto/v11
+#EXTINF:2.72,Gulli Prime HD
+http://173.229.4.239:5004/auto/v12
+#EXTINF:2.752,BFM TV HD
+http://173.229.4.239:5004/auto/v13
+#EXTINF:3.84,C News HD
+http://173.229.4.239:5004/auto/v14
+#EXTINF:1.944,LCI HD
+http://173.229.4.239:5004/auto/v15
+#EXTINF:2.477,Franceinfo HD
+http://173.229.4.239:5004/auto/v16
+#EXTINF:4.216,C Star HD
+http://173.229.4.239:5004/auto/v17
+#EXTINF:2.408,T18 HD
+http://173.229.4.239:5004/auto/v18
+#EXTINF:3.144,NOVO19 HD
+http://173.229.4.239:5004/auto/v19
+#EXTINF:2.484,TF1 Series Films HD
+http://173.229.4.239:5004/auto/v20
+#EXTINF:2.96,la chaine L'EQUOPE HD
+http://173.229.4.239:5004/auto/v21
+#EXTINF:9.06,6ter HD
+http://173.229.4.239:5004/auto/v22
+#EXTINF:3.088,RMC Story HD
+http://173.229.4.239:5004/auto/v23
+#EXTINF:2.876,RMC Decouverte HD
+http://173.229.4.239:5004/auto/v24
+#EXTINF:2.592,RMC Life HD
+http://173.229.4.239:5004/auto/v25
+#EXTINF:2.424,Telebocal HD
+http://173.229.4.239:5004/auto/v31
+#EXTINF:2.272,20TV HD
+http://173.229.4.239:5004/auto/v32
+#EXTINF:2.00257,Figaro HD
+http://173.229.4.239:5004/auto/v34
+#EXTINF:4.464,France TV UHD
+http://173.229.4.239:5004/auto/v52
+#EXTINF:3.968,UHD
+http://173.229.4.239:5004/auto/v53
